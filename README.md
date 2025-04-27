@@ -6,6 +6,10 @@
 
 
 
+https://youtu.be/dcUb4lUnGj4
+
+
+
 ## Basic principles
 
 In order to distinguish the traditional benchmark of VLM, all collected samples will follow the following principles:
@@ -114,7 +118,7 @@ This test set collects most of the CV problems on the market and divides them in
 
 Each data item contains 6 fields:
 
-```json
+```
 "id": Data item number, named according to "categories_subcategories_items".
 "media_path": The path to the media file associated with the data item.
 "media_type": Media type that the data item depends on.
