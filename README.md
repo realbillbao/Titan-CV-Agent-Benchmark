@@ -4,7 +4,11 @@
 
 **The Titan CV Benchmark is primarily designed to evaluate the performance of AGENTS in the field of computer vision (CV).** We have collected more than 200 test examples to comprehensively test the performance of the agent, particularly their capability to solve problems step by step.
 
-**Demo Video: https://youtu.be/dcUb4lUnGj4**
+> [!IMPORTANT]
+>
+> **Demo Video: https://youtu.be/dcUb4lUnGj4**
+>
+> **Media files are available for download via the link below: [Google Drive](https://drive.google.com/file/d/14lcUsIBm1YshG-wajzWQdicBpitRhRGW/view?usp=drive_link)**
 
 
 
