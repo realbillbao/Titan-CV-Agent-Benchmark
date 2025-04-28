@@ -4,6 +4,8 @@ Titan 计算机视觉智能体评测基准主要用于测试计算机视觉领�
 
 **演示视频：https://youtu.be/dcUb4lUnGj4**
 
+**Huggingface：https://huggingface.co/datasets/DataCanvasAILab/Titan-CV-Agent-Benchmark**
+
 **媒体文件下载: [Google Drive](https://drive.google.com/file/d/14lcUsIBm1YshG-wajzWQdicBpitRhRGW/view?usp=drive_link)**
 
 ## 基本原则

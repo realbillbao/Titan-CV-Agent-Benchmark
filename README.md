@@ -8,7 +8,9 @@
 >
 > **Demo Video: https://youtu.be/dcUb4lUnGj4**
 >
-> **Media files are available for download via the link below: [Google Drive](https://drive.google.com/file/d/14lcUsIBm1YshG-wajzWQdicBpitRhRGW/view?usp=drive_link)**
+> **Huggingface：https://huggingface.co/datasets/DataCanvasAILab/Titan-CV-Agent-Benchmark**
+>
+> **Media files are also available for download via the link below: [Google Drive](https://drive.google.com/file/d/14lcUsIBm1YshG-wajzWQdicBpitRhRGW/view?usp=drive_link)**
 
 
 
