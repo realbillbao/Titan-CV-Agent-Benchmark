@@ -24,11 +24,19 @@ Titan 计算机视觉智能体评测基准主要用于测试计算机视觉领�
 
 ## Titan 计算机视觉智能体系列
 
-[Titan 计算机视觉智能体沙箱](https://github.com/DataCanvasAILab/Titan-CV-Agent-Sandbox)
+[Titan 计算机视觉智能体沙箱](https://github.com/realbillbao/Titan-CV-Agent-Sandbox)
 
-[Titan 计算机视觉智能体执行器](https://github.com/DataCanvasAILab/Titan-CV-Agent-Executor)
+[Titan 计算机视觉智能体执行器](https://github.com/realbillbao/Titan-CV-Agent-Executor)
 
-[Titan 计算机视觉智能体评测基准](https://github.com/DataCanvasAILab/Titan-CV-Agent-Benchmark)
+[Titan 计算机视觉智能体评测基准](https://github.com/realbillbao/Titan-CV-Agent-Benchmark)
+
+## 模型基准
+| Model Name               | Passed | Pass Rate       | Correct | Correct Rate  |
+| ------------------------ | ------ | --------------- | ------- | ------------- |
+| **Qwen2.5-72B-Instruct** | 139    | 139/205 = 67.8% | 15      | 15/205 = 7.3% |
+| **DeepSeek-R1**          | 123    | 123/205 = 60.0% | 13      | 13/205 = 6.3% |
+| **DeepSeek-V3**          | 178    | 178/205 = 86.8% | 13      | 13/205 = 6.3% |
+| **Qwen3-235B-A22B**      | 102    | 102/205 = 49.8% | 11      | 11/205 = 5.4% |
 
 
 
